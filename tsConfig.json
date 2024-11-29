@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+    //   "module": "commonjs", // or "esnext" if you're using ESM
+      "target": "es6",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true
+    }
+  }
+  
